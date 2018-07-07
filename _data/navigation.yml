@@ -2,13 +2,13 @@ header:
   - titles:
       en:       Archive
       zh:       分类
-      zh-Hans:  归档
+      zh-Hans:  分类
       zh-Hant:  歸檔
     url:        /archive.html
   - titles: 
-      en:       
+      en:       Navigation
       zh:       导航
-      zh-Hans:  归档
+      zh-Hans:  导航
       zh-Hant:  歸檔
     url:        /archive.html
   - titles:
@@ -17,3 +17,33 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+
+
+nav-ht:
+  - title:      开始
+    children:
+      - title:  快速开始
+        url:    /docs/zh/quick-start
+      - title:  从 1.x 升级到 2.x
+        url:    /docs/zh/update-form-1-to-2
+  - title:      定制
+    children:
+      - title:  配置
+        url:    /docs/zh/configuration
+      - title:  导航栏
+        url:    /docs/zh/navigation
+      - title:  布局
+        url:    /docs/zh/layouts
+      - title:  Logo 和 Favicon
+        url:    /docs/zh/logo-and-favicon
+      - title:  作者
+        url:    /docs/zh/authors
+  - title:      内容
+    children:
+      - title:  撰写博客
+        url:    /docs/zh/writing-posts
+      - title:  Markdown 增强
+        url:    /docs/zh/markdown-enhancements
+      - title:  附加样式
+        url:    /docs/zh/additional-styles
+  - title:      开发
