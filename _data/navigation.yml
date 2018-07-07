@@ -19,26 +19,26 @@ header:
     url:        /about.html
 
 
-docs-zh:
-  - title:      开始
+navi-ht:
+  - title:      财务报销
     children:
-      - title:  快速开始
+      - title:  教师差旅（本分校）
         url:    /docs/zh/quick-start
       - title:  从 1.x 升级到 2.x
         url:    /docs/zh/update-form-1-to-2
-  - title:      定制
+  - title:      工作制度
     children:
-      - title:  配置
+      - title:  开会
         url:    /docs/zh/configuration
-      - title:  导航栏
+      - title:  考勤
         url:    /docs/zh/navigation
-      - title:  布局
+      - title:  教研
         url:    /docs/zh/layouts
       - title:  Logo 和 Favicon
         url:    /docs/zh/logo-and-favicon
-      - title:  作者
+      - title:  综合评定
         url:    /docs/zh/authors
-  - title:      内容
+  - title:      优秀文章
     children:
       - title:  撰写博客
         url:    /docs/zh/writing-posts
