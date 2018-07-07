@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 8801教师差旅报销（外分校上课）
 key: 20180514
 tags: 财务报销
