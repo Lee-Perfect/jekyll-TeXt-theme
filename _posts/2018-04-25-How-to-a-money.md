@@ -2,8 +2,7 @@
 title: 8801教师差旅报销（外分校上课）
 key: 20180514
 tags: 财务报销
-sidebar:
-  nav: navi-ht
+sidebar: navi-ht
 ---
 
 此流程适用于南宁分校老师在**非南宁分校辖区内授课**的差旅报销 
