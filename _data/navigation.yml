@@ -24,7 +24,13 @@ navi-ht:
     children:
       - title:  教师差旅（本分校）
         url:    /docs/zh/quick-start
-      - title:  从 1.x 升级到 2.x
+      - title:  教师差旅（外分校）
+        url:    /docs/zh/update-form-1-to-2
+      - title:  专程讲座（本分校）
+        url:    /docs/zh/update-form-1-to-2
+      - title:  专程讲座（外分校）
+        url:    /docs/zh/update-form-1-to-2
+      - title:  外出培训
         url:    /docs/zh/update-form-1-to-2
   - title:      工作制度
     children:
