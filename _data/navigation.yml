@@ -19,7 +19,7 @@ header:
     url:        /about.html
 
 
-nav-ht:
+docs-zh:
   - title:      开始
     children:
       - title:  快速开始
