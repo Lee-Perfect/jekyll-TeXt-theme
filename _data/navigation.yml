@@ -13,10 +13,10 @@ header:
     url:        /docs/zh/quick-start
   - titles:
       en:       About
-      zh:       关于
+      zh:       首页
       zh-Hans:  关于
       zh-Hant:  關於
-    url:        /about.html
+    url:        https://myteamwork.info
 
 
 navi-ht:
@@ -26,11 +26,11 @@ navi-ht:
         url:    /docs/zh/quick-start
       - title:  教师差旅（外分校）
         url:    /docs/zh/update-form-1-to-2
-      - title:  专程讲座（本分校）
-        url:    /docs/zh/update-form-1-to-2
-      - title:  专程讲座（外分校）
+      - title:  专程讲座
         url:    /docs/zh/update-form-1-to-2
       - title:  外出培训
+        url:    /docs/zh/update-form-1-to-2
+      - title:  团队活动经费报销
         url:    /docs/zh/update-form-1-to-2
   - title:      工作制度
     children:
