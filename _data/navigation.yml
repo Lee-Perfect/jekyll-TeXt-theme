@@ -22,6 +22,8 @@ header:
 navi-ht:
   - title:      财务报销
     children:
+      - title:  报销注意事项
+        url:    /docs/zh/quick-start
       - title:  教师差旅（本分校）
         url:    /docs/zh/quick-start
       - title:  教师差旅（外分校）
