@@ -23,11 +23,11 @@ navi-ht:
   - title:      财务报销
     children:
       - title:  报销注意事项
-        url:    /docs/zh/quick-start
+        url:    https://myteamwork.info/2018/08/01/expenses-Attention.html
       - title:  教师差旅（本分校）
         url:    /docs/zh/quick-start
       - title:  教师差旅（外分校）
-        url:    /docs/zh/update-form-1-to-2
+        url:    https://myteamwork.info/2018/08/03/How-to-Expenses-outschool.html
       - title:  专程讲座
         url:    /docs/zh/update-form-1-to-2
       - title:  外出培训
