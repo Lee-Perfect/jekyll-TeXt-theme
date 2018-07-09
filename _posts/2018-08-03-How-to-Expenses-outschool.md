@@ -23,7 +23,7 @@ sidebar:
 
 ### 登陆系统
 ![01登陆系统.jpg](https://upload-images.jianshu.io/upload_images/5337153-fc468413b9109b3d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+ 
 
 
 
@@ -80,6 +80,14 @@ sidebar:
 > 例：20180520李鹏飞报销5月1日-5月11日去百色上课GGXGJB1832往返车费
 
 ![07录入班号.jpg](https://upload-images.jianshu.io/upload_images/5337153-e7d241ddb3718a34.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+**关键信息核对**
+「费用类型」：教师差旅
+「科目」：教师差旅
+「部门」：23011 产品教研部
+「事业部」：课程对应事业部
+
 
 ![08录入班号.jpg](https://upload-images.jianshu.io/upload_images/5337153-47e08f3d6782c96b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
