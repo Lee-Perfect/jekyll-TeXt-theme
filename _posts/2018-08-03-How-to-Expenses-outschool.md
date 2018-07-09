@@ -83,10 +83,10 @@ sidebar:
 
 
 **关键信息核对**
-「费用类型」：教师差旅
-「科目」：教师差旅
-「部门」：23011 产品教研部
-「事业部」：课程对应事业部
+- 「费用类型」：教师差旅
+- 「科目」：教师差旅
+- 「部门」：23011 产品教研部
+- 「事业部」：课程对应事业部
 
 
 ![08录入班号.jpg](https://upload-images.jianshu.io/upload_images/5337153-47e08f3d6782c96b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
